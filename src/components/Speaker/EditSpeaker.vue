@@ -19,7 +19,7 @@
       <p>status: {{ speaker.status }}</p>
       <p>type: {{ speaker.type }}</p>
       <p></p>
-    </div>
+    </div>          
   </div>
 </template>
 <script>
