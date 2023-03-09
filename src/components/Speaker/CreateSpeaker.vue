@@ -24,6 +24,7 @@
 <script>
 import SpeakerService from "@/services/SpeakerService";
 
+
 export default {
   data() {
     return {
@@ -53,3 +54,7 @@ export default {
 };
 </script>
 <style scoped></style>
+
+
+
+
